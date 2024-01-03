@@ -1,0 +1,22 @@
+<script setup>
+import HelloWorld from './components/HelloWorld.vue'
+</script>
+
+<template class="bg-slate-900 leading-relaxed text-slate-400 antialiased selection:bg-teal-300 selection:text-teal-900">
+  <HelloWorld msg="Welcome to Himanshu's homepage" />
+</template>
+
+<style scoped>
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.vue:hover {
+  filter: drop-shadow(0 0 2em #42b883aa);
+}
+</style>
