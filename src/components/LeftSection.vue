@@ -88,7 +88,11 @@
       <a
         href="https://drive.google.com/file/d/169BJbZeUfz43PTX8u7Y138kClwAEN7c9/view?usp=sharing"
         target="_blank"
+        rel="noreferrer noopener"
+        aria-label="resume link (opens in a new tab)"
+        class="inline-flex items-center"
       >
+      <!-- <LinkSVG class="mr-2"/> -->
         Resume
       </a>
     </p>
@@ -100,6 +104,7 @@
 <script setup>
 import { ref } from "vue";
 import underlinesvg from "../styles/underline.svg";
+import LinkSVG from './LinkSVG.vue'
 
 defineProps({
   msg: String,
