@@ -6,21 +6,21 @@
     <h1 class="text-4xl font-bold tracking-tight text-slate-200 sm:text-5xl">
       Himanshu Singh Chauhan
     </h1>
-    <h2
-      class="mt-3 text-lg font-medium tracking-tight text-slate-200 sm:text-xl"
-    >
-      Backend Developer
-    </h2>
+    <div class="relative mt-3">
+      <img src="../assets/brush storke to put behind backend engineer text.png" class="absolute inset-0 mt-4 object-cover"
+        alt="Background Image">
+
+      <h2 class="mb-3 text-lg font-medium tracking-tight text-slate-200 sm:text-xl">
+        Backend Developer
+      </h2>
+    </div>
+
+
     <p class="mt-4 leading-normal">
       I build stuff for web with strong foundations in
-      <span
-        class="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
-      >
-        Backend</span
-      >, and also delve into
-      <span
-        class="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
-      >
+      <span class="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300">
+        Backend</span>, and also delve into
+      <span class="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300">
         Frontend with a Full-Stack Vision.
       </span>
     </p>
@@ -34,65 +34,38 @@
 
     <ul class="mt-5 flex items-center" aria-label="Social media">
       <li class="mr-5 text-xs">
-        <a
-          class="block hover:text-slate-200"
-          href="https://www.linkedin.com/in/himanshu-singh--chauhan/"
-          target="_blank"
-          rel="noreferrer noopener"
-          aria-label="LinkedIn (opens in a new tab)"
-          ><span class="sr-only">LinkedIn</span>
+        <a class="block hover:text-slate-200" href="https://www.linkedin.com/in/himanshu-singh--chauhan/" target="_blank"
+          rel="noreferrer noopener" aria-label="LinkedIn (opens in a new tab)"><span class="sr-only">LinkedIn</span>
           <img src="../assets/linkedin.png" class="h-8 w-8" alt="linkedin" />
         </a>
       </li>
 
       <li class="mr-5 text-xs">
-        <a
-          class="block hover:text-slate-200"
-          href="https://twitter.com/HimSpeedo"
-          target="_blank"
-          rel="noreferrer noopener"
-          aria-label="Twitter (opens in a new tab)"
-          ><span class="sr-only">Twitter</span>
+        <a class="block hover:text-slate-200" href="https://twitter.com/HimSpeedo" target="_blank"
+          rel="noreferrer noopener" aria-label="Twitter (opens in a new tab)"><span class="sr-only">Twitter</span>
           <img src="../assets/twitter.png" class="h-8 w-8" alt="Twitter" />
         </a>
       </li>
 
       <li class="mr-5 text-xs">
-        <a
-          class="block hover:text-slate-200"
-          href="https://github.com/Himanshu-Singh-Chauhan/"
-          target="_blank"
-          rel="noreferrer noopener"
-          aria-label="GitHub (opens in a new tab)"
-          ><span class="sr-only">GitHub</span>
+        <a class="block hover:text-slate-200" href="https://github.com/Himanshu-Singh-Chauhan/" target="_blank"
+          rel="noreferrer noopener" aria-label="GitHub (opens in a new tab)"><span class="sr-only">GitHub</span>
           <img src="../assets/github.png" class="h-8 w-8" alt="github" />
         </a>
       </li>
 
       <li class="mr-5 text-xs">
-        <a
-          class="block hover:text-slate-200"
-          href="https://www.instagram.com/himanshu_chauhan.21/"
-          target="_blank"
-          rel="noreferrer noopener"
-          aria-label="Instagram (opens in a new tab)"
-          ><span class="sr-only">Instagram</span>
+        <a class="block hover:text-slate-200" href="https://www.instagram.com/himanshu_chauhan.21/" target="_blank"
+          rel="noreferrer noopener" aria-label="Instagram (opens in a new tab)"><span class="sr-only">Instagram</span>
           <img src="../assets/instagram.png" class="h-8 w-8" alt="instagram" />
         </a>
       </li>
     </ul>
 
-    <p
-      class="mt-8 my-3 font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
-    >
-      <a
-        href="https://drive.google.com/file/d/169BJbZeUfz43PTX8u7Y138kClwAEN7c9/view?usp=sharing"
-        target="_blank"
-        rel="noreferrer noopener"
-        aria-label="resume link (opens in a new tab)"
-        class="inline-flex items-center"
-      >
-      <!-- <LinkSVG class="mr-2"/> -->
+    <p class="mt-8 my-3 font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300">
+      <a href="https://drive.google.com/file/d/169BJbZeUfz43PTX8u7Y138kClwAEN7c9/view?usp=sharing" target="_blank"
+        rel="noreferrer noopener" aria-label="resume link (opens in a new tab)" class="inline-flex items-center">
+        <!-- <LinkSVG class="mr-2"/> -->
         Resume
       </a>
     </p>
